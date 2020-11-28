@@ -1,2 +1,4 @@
 merge Conflict 
 worst
+line 3
+line 4
